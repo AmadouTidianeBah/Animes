@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">The Animes</string>
+    <string name="one_piece">One Piece</string>
+    <string name="one_piece_desc">One Piece est une série de shōnen mangas créée par Eiichirō Oda. Elle est prépubliée depuis le 22 juillet 1997 dans le magazine hebdomadaire Weekly Shōnen Jump, puis regroupée en tankōbon aux éditions Shūeisha depuis le 24 décembre 1997. 105 tomes sont commercialisés au Japon en mars 2023.</string>
+    <string name="attack_on_titan">Attack On Titan</string>
+    <string name="attack_on_titan_desc">Attack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. \'The Advancing Giant\') is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity is forced to live in cities surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans; the story follows Eren Yeager, who vows to exterminate the Titans after they bring about the destruction of his hometown and the death of his mother. It was serialized in Kodansha\'s monthly magazine Bessatsu Shōnen Magazine from September 2009 to April 2021, with its chapters collected in 34 tankōbon volumes.</string>
+    <string name="demon_slayer">Demon Slayer</string>
+    <string name="demon_slayer_desc">Demon Slayer: Kimetsu no Yaiba (鬼滅の刃, Kimetsu no Yaiba, "Blade of Demon Destruction"[4]) is a Japanese manga series written and illustrated by Koyoharu Gotouge. It was serialized in Shueisha\'s shōnen manga magazine Weekly Shōnen Jump from February 2016 to May 2020, with its chapters collected in 23 tankōbon volumes. It has been published in English by Viz Media and simultaneously published by Shueisha on their Manga Plus platform. It follows teenage Tanjiro Kamado, who strives to become a Demon Slayer after his family was slaughtered and his younger sister, Nezuko, turned into a demon.</string>
+    <string name="fire_force">Fire Force</string>
+    <string name="fire_force_desc">Fire Force</string>
+    <string name="jujutsu_kaisen">Jujutsu Kaisen</string>
+    <string name="jujutsu_kaisen_desc">Jujutsu Kaisen</string>
+    <string name="hero_academia">My Heroes Academia</string>
+    <string name="hero_academia_desc">My Heroes Academia</string>
+    <string name="naruto">Naruto</string>
+    <string name="naruto_desc">Naruto</string>
+    <string name="psycho_pass">Psycho Pass</string>
+    <string name="psycho_pass_desc">Psycho Pass</string>
+    <string name="tokyo_ghoul">Tokyo Ghoul</string>
+    <string name="tokyo_ghoul_desc">Tokyo Ghoul</string>
+    <string name="tokyo_revenger">Tokyo Revenger</string>
+    <string name="tokyo_revenger_desc">Tokyo Revenger</string>
+    <string name="vinland_saga">Vinland Saga</string>
+    <string name="vinland_saga_desc">Vinland Saga</string>
+</resources>
